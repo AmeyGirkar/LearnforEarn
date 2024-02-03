@@ -1,0 +1,17 @@
+
+HTML (HyperText Markup Language): HTML is the standard markup language used to create the structure of a web page. It consists of a series of elements that enclose different parts of content to be displayed, such as headings, paragraphs, links, images, and more. HTML provides the basic building blocks for web development.
+
+CSS (Cascading Style Sheets): CSS is a style sheet language used to control the presentation and layout of HTML documents. It enables web developers to define the visual appearance of elements on a webpage, including aspects like colors, fonts, spacing, and positioning. CSS allows for the separation of content and design in web development.
+
+Front-end vs. Back-end Development:
+
+Front-end Development: Involves building the user interface and user experience that users interact with directly. It includes HTML, CSS, and JavaScript to create visually appealing and responsive websites.
+Back-end Development: Focuses on server-side functionality, dealing with databases, server logic, and ensuring the application works smoothly behind the scenes. Back-end languages include Python, Ruby, PHP, and frameworks like Node.js.
+JavaScript: JavaScript is a versatile scripting language that enables interactivity on the web. It's commonly used for creating dynamic content, handling events, and enhancing user experience. JavaScript is a key component of front-end development, but it's also used in some back-end technologies (Node.js).
+
+Responsive Web Design: Responsive web design is an approach to designing and coding websites to ensure they provide an optimal viewing and interaction experience across a wide range of devices and screen sizes. It involves using flexible grids and layouts, CSS media queries, and responsive images to adapt the design to different devices, such as desktops, tablets, and smartphones. This ensures a consistent and user-friendly experience across various platforms.
+
+
+
+
+
